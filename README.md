@@ -2,11 +2,11 @@
 ![version](https://img.shields.io/badge/version-1.0.1-6395ED)
 ![version](https://img.shields.io/badge/license-MIT-9ACD32)
 [![preprint](https://img.shields.io/badge/Preprint'25-EE4C2C)](https://arxiv.org/abs/2501.08001)
-[![DASFAA](https://img.shields.io/badge/AAAI-2025-B57EDC)](https://aaai.org/conference/aaai/aaai-25/)
+[![DASFAA](https://img.shields.io/badge/TKDD-2025-B57EDC)](https://dl.acm.org/journal/TKDD)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-![](https://img.shields.io/github/stars/sunshy-1/GDiffRetro?style=social) 
+![](https://img.shields.io/github/stars/sunshy-1/PHE?style=social) 
 
-This is the Pytorch implementation for our *AAAI'25* paper: [**GDiffRetro: Retrosynthesis Prediction with Dual Graph Enhanced Molecular Representation and Diffusion Generation**](https://arxiv.org/abs/2501.08001). 
+This is the Pytorch implementation for our *TKDD'25* paper: [**PHE: Structure and Semantic Enhanced Pre-training of Graph Neural Networks for Large-Scale Heterogeneous Graphs**](https://arxiv.org/abs/2501.08001). 
 
 ## Abstract
 <div style="text-align: justify;">
