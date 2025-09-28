@@ -14,4 +14,4 @@ In recent years, graph neural networks (GNNs) have facilitated the development o
 <div> 
 <br>
 
-![Framework](fig/framework.pdf)
+![Framework](fig/framework.png)
