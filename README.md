@@ -2,7 +2,7 @@
 ![version](https://img.shields.io/badge/version-1.0.1-6395ED)
 ![version](https://img.shields.io/badge/license-MIT-9ACD32)
 [![preprint](https://img.shields.io/badge/Preprint'25-EE4C2C)](https://arxiv.org/abs/2501.08001)
-[![DASFAA](https://img.shields.io/badge/TKDD-2025-B57EDC)](https://dl.acm.org/journal/TKDD)
+[![TKDD](https://img.shields.io/badge/TKDD-2025-B57EDC)](https://dl.acm.org/journal/TKDD)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 ![](https://img.shields.io/github/stars/sunshy-1/PHE?style=social) 
 
@@ -14,4 +14,4 @@ In recent years, graph neural networks (GNNs) have facilitated the development o
 <div> 
 <br>
 
-![Framework](fig/framework.png)
+![Framework](fig/framework.pdf)
