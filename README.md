@@ -6,7 +6,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 ![](https://img.shields.io/github/stars/sunshy-1/PHE?style=social) 
 
-This is the Pytorch implementation for our *TKDD'25* paper: [**PHE: Structure and Semantic Enhanced Pre-training of Graph Neural Networks for Large-Scale Heterogeneous Graphs**](https://arxiv.org/abs/2501.08001). 
+This is the Pytorch implementation for our *TKDD'25* paper: [**PHE: Structure and Semantic Enhanced Pre-training of Graph Neural Networks for Large-Scale Heterogeneous Graphs**](https://dl.acm.org/doi/10.1145/3772278). 
 
 ## Abstract
 <div style="text-align: justify;">
