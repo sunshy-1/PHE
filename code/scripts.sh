@@ -3,8 +3,8 @@
 # ============ Common Variables ============
 PRETRAIN_MODEL_DIR="pretrain_models/phe_hgt_CS"
 DATA_DIR="./OAG_dataset"
-N_EPOCH_PRETRAIN=3
-N_EPOCH_FINETUNE=2
+N_EPOCH_PRETRAIN=500
+N_EPOCH_FINETUNE=100
 CUDA=6
 
 # # ============ Pretrain ============
