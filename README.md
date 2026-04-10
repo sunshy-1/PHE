@@ -18,7 +18,7 @@ In recent years, graph neural networks (GNNs) have facilitated the development o
 
 
 ## Environment Requirement
-    # More details can be seen in ./requirements.txt.
+    # More details can be seen in ./code/requirements.txt.
     torch==1.8.1+cu111 
     torch-cluster==1.5.9  
     torch-scatter==2.0.6  
@@ -30,7 +30,7 @@ In recent years, graph neural networks (GNNs) have facilitated the development o
 You can download the datasets from [link](https://pan.baidu.com/s/17Z--QoDbXXDTQ9iH-XZtaw), [password] joha, and put them in the file ./code/OAG_dataset.
 
 ## Run the Code
-  cd code && bash performance.sh
+cd code && bash performance.sh
 
 ## Acknowledgment of Open-Source Code Contributions  
   The code is based on the open-source repositories: [HGT](https://github.com/acbull/pyHGT) and [GPT-GNN](https://github.com/acbull/GPT-GNN), many thanks to the authors! 
