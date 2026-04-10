@@ -16,4 +16,32 @@ In recent years, graph neural networks (GNNs) have facilitated the development o
 
 ![Framework](fig/framework.png)
 
-## Code coming soon ...
+
+## Environment Requirement
+    # More details can be seen in ./requirements.txt.
+    torch==1.8.1+cu111 
+    torch-cluster==1.5.9  
+    torch-scatter==2.0.6  
+    torch-sparse==0.6.10  
+    torch-spline-conv==1.2.1  
+    torch-geometric==1.4.3
+
+## Dataset
+You can download the datasets from [link](https://pan.baidu.com/s/17Z--QoDbXXDTQ9iH-XZtaw), [password] joha, and put them in the file ./code/OAG_dataset.
+
+## Run the Code
+  cd code && bash performance.sh
+
+## Acknowledgment of Open-Source Code Contributions  
+  The code is based on the open-source repositories: [HGT](https://github.com/acbull/pyHGT) and [GPT-GNN](https://github.com/acbull/GPT-GNN), many thanks to the authors! 
+
+You are welcome to cite our paper:
+```
+@inproceedings{SunMa25,
+  author = {Sun, Shengyin and Chen, Ma and Chen, Jiehao},
+  title = {PHE: Structure and Semantic Enhanced Pre-Training of Graph Neural Networks for Large-Scale Heterogeneous Graphs},
+  year = {2025},
+  booktitle = {ACM Transactions on Knowledge Discovery from Data},
+  pages = {1–26}
+}
+```
